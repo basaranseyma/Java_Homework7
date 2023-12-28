@@ -1,0 +1,2 @@
+# Total Amount Calculator
+In the assignment on [Patika.dev](https://patika.dev), we are required to write a program that calculates the total amount as soon as you enter the weight of each fruit/vegetable.
